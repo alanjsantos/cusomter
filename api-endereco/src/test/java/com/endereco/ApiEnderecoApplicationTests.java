@@ -1,10 +1,10 @@
-package com.example.demo;
+package com.endereco;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DemoApplicationTests {
+class ApiEnderecoApplicationTests {
 
 	@Test
 	void contextLoads() {

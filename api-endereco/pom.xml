@@ -8,10 +8,10 @@
 		<version>2.6.2</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.api</groupId>
-	<artifactId>endereco</artifactId>
+	<groupId>com.api-endereco</groupId>
+	<artifactId>api-endereco</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>endereco</name>
+	<name>api-endereco</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>11</java.version>
